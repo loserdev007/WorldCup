@@ -1,0 +1,21 @@
+#single-blog__flags{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   padding: 15px !important;
+}
+#single-blog__flags p{
+   display: inline-block;
+   width: auto;
+}
+#single-blog__flags img{
+   width: 100%;
+}
+.single-blog h3{
+   text-align: center !important;
+   font-size: 22px;
+}
+.single-blog p{
+   text-align: center;
+   font-size: 16px;
+}
